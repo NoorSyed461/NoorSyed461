@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoorSyed461
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Software Quality Assurance & AI
+- 🌱 I’m currently learning Selenium Automation & Machine Learning
 - 💞️ I’m looking to collaborate on ML based projects
 - 📫 Reach out on my Linkedin username: -noor-ul-ain-syed-
 
